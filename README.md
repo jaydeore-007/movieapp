@@ -11,7 +11,7 @@
 https://github.com/jaydeore-007/movieapp/assets/93081519/1f9d3d08-6aa0-4e79-9af7-52d9749d72e2
 
 
-    <br>
+<br>
     Made with :heart: 
     <br>
   </p>
